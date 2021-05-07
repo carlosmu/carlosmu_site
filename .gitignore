@@ -1,3 +1,4 @@
+# Ignore:
 /hugo
 docs/public*
 /.idea
@@ -24,3 +25,7 @@ hugolib/hugo_stats.json
 resources/sunset.jpg
 
 vendor
+
+
+# Upload all on this dir
+!docs/*
