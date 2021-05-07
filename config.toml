@@ -1,6 +1,6 @@
-baseURL = "https://carlosmu.com.ar"
+baseURL = "https://carlosmu.com.ar/"
 languageCode = "en-us"
-title = "carlosmu.com.ar"
+title = "Carlos Muñoz"
 # theme = "tale"
 theme = "hugo-coder"
 
@@ -92,7 +92,7 @@ disqusShortname = "yourdiscussshortname"
         identifier = "addons"
         name = "Addons"
         title = "Addons"
-        url = "/addons"
+        url = "addons"
         weight = 2
     [[menu.main]]
         identifier = "posts"

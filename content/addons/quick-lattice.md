@@ -26,13 +26,16 @@ This will save you a lot clicks and other boring settings. But not much more. <b
 <img src="demo/quick_lattice_v06.gif" width="600" style="border-radius:5px" alt="New Features">
 <br><br>
 
+## Available for download
+
+[![gumroad-logo.png]({{< base-url >}}img/addons/gumroad-logo.png#thumbnail)](https://gumroad.com/l/quicklattice)
+[![blender-market-logo.png]({{< base-url >}}img/addons/blender-market-logo.png#thumbnail)](https://blendermarket.com/products/quick-lattice)
 ## Instalation
-1. Go to releases page: https://gumroad.com/l/quicklattice
-2. Download the zip file "quick_lattice_[version].zip"
-3. If you have an older version, uninstall it first (on addon preferences).
-4. Go to Blender > User Preferences > Addons > Install (choose the .zip file)
-5. Activate the addon.
-6. Enjoy it!
+1. Download the zip file "quick_lattice_[version].zip"
+2. If you have an older version, uninstall it first (on addon preferences).
+3. Go to Blender > User Preferences > Addons > Install (choose the .zip file)
+4. Activate the addon.
+5. Enjoy it!
 
 ## Changelog
 - 0.3.0 First Release!
@@ -47,8 +50,7 @@ This will save you a lot clicks and other boring settings. But not much more. <b
 - 0.7.0 Now this addon use multifile structure (.zip)
 
 
-## Donate
-You can support my work by buying this plugin on Gumroad https://gum.co/quicklattice
+
 
 ## Known Issues
 When the object's pivot is rotated (but not the whole object), the result may not be what you want. In those cases, try applying the rotation first (Ctrl + A).

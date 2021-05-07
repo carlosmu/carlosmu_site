@@ -1,6 +1,5 @@
 # Ignore:
 /hugo
-docs/public*
 /.idea
 hugo.exe
 *.test

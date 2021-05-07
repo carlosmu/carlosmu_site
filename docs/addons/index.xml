@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Addons on carlosmu.com.ar</title>
+    <title>Addons on Carlos Muñoz</title>
     <link>https://carlosmu.com.ar/addons/</link>
-    <description>Recent content in Addons on carlosmu.com.ar</description>
+    <description>Recent content in Addons on Carlos Muñoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 May 2021 18:33:25 -0300</lastBuildDate><atom:link href="https://carlosmu.com.ar/addons/index.xml" rel="self" type="application/rss+xml" />
@@ -25,7 +25,7 @@ Additionally you can also hide the button if you prefer only to use the shortcut
       <pubDate>Thu, 06 May 2021 18:32:46 -0300</pubDate>
       
       <guid>https://carlosmu.com.ar/addons/quick-lattice/</guid>
-      <description>Tired of setting up lattices?Looking for a non-destructive way to modify your models?Quick Lattice is what you are looking for! Do not wait more! (hahaha)What its does?Automating the process of warping an object in a lattice cage.Setting the size, position, rotation, resolution, interpolation, modifier, etc.This will save you a lot clicks and other boring settings. But not much more. Usage Select the target object Right Click Menú -&amp;gt; Quick Lattice (or W for Right Click Select Users)   New featuresInstalation Go to releases page: https://gumroad.</description>
+      <description>Tired of setting up lattices?Looking for a non-destructive way to modify your models?Quick Lattice is what you are looking for! Do not wait more! (hahaha)What its does?Automating the process of warping an object in a lattice cage.Setting the size, position, rotation, resolution, interpolation, modifier, etc.This will save you a lot clicks and other boring settings. But not much more. Usage Select the target object Right Click Menú -&amp;gt; Quick Lattice (or W for Right Click Select Users)   New featuresAvailable for download</description>
     </item>
     
   </channel>
