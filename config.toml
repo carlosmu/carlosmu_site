@@ -1,0 +1,109 @@
+baseURL = "https://carlosmu.com.ar"
+languageCode = "en-us"
+title = "carlosmu.com.ar"
+# theme = "tale"
+theme = "hugo-coder"
+
+# Configuration based on https://github.com/luizdepra/hugo-coder/wiki/Configurations#complete-example
+
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+
+[params]
+    author = "Carlos Muñoz"
+    info = "3D Artist, working on VideoGames/VR"
+    description = "3D Technical Artist based in Buenos Aires, Argentina"
+    keywords = "3dmodeling,scripting,videogames"
+    #avatarurl = "images/avatar.jpg"
+    #gravatar = "carlos.damian.munoz@gmail.com"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "This site is under construction."
+    hideFooter = false
+    hideCredits = true
+    hideCopyright = false
+    since = 2012
+
+    # enableTwemoji = true
+
+    colorScheme = "auto"
+    hidecolorschemetoggle = false
+
+    customCSS = ["css/custom.css"]
+    # customSCSS = ["scss/custom.scss"]
+    # customJS = ["js/custom.js"]
+
+
+
+
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+
+
+
+# Social links
+
+[[params.social]]
+    name = "Artstation"
+    icon = "fa fa-artstation fa-2x"
+    weight = 1
+    url = "https://www.artstation.com/carlosmu"
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
+    weight = 2
+    url = "https://github.com/carlosmu"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/carlosmu_noz/"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fa fa-linkedin fa-2x"
+    weight = 4
+    url = "https://www.linkedin.com/in/carlos-damian-munoz/"
+
+
+
+# Menu Principal
+[menu]
+    [[menu.main]]
+        identifier = "portfolio"
+        name = "Portfolio"
+        title = "Portfolio"
+        url = "/portfolio/"
+        weight = 1
+    [[menu.main]]
+        identifier = "addons"
+        name = "Addons"
+        title = "Addons"
+        url = "/addons"
+        weight = 2
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        title = "Posts"
+        url = "/posts/"
+        weight = 3
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        title = "About"
+        url = "/about/"
+        weight = 4
+
