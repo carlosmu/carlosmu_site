@@ -1,4 +1,14 @@
 
+/* Titulo */
+.navigation-title {
+    text-transform: lowercase; 
+    font-size: 40 px;
+    color: red;
+}
+
+h1 {
+    color: red;
+}
 
 /*Estilos para las imagenes*/
 img {
