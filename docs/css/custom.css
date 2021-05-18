@@ -10,12 +10,23 @@ img {
     border-radius: 5px;
     box-shadow: 0px 0px 3px rgba(0,0,0,1);
 }
-img[src*="#fullsize"] {
+img[src*="#fullsize"], img[src*="#midsize"] {
     width:100%;
 }
-img[src*="#midsize"] {
-    width:49.5%;
-}
+
 img[src*="#thumbnail"] {
-    width:200px;
+    width:35%;
 }
+
+@media only screen and (min-width: 960px) and (orientation: landscape) {
+    img[src*="#fullsize"] {
+        width:100%;
+    }
+    img[src*="#midsize"] {
+        width:49.5%;
+    }
+    img[src*="#thumbnail"] {
+        width:25%;
+    }
+}
+
