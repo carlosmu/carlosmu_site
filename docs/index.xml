@@ -22,8 +22,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://carlosmunoz.com.ar/about/</guid>
-      <description>3D Technical Artist working on Video Games and VR, since 2012
-Skills 3D Modeling Rigging Animation Scripting  </description>
+      <description>I am Carlos Muñoz, technical 3D Artist based on Buenos Aires. I work since 2012 on Video Games and Virtual Reality Projects. Also, I worked on archviz and advertising projects.
+Skills3D Modeling / Texturing / Rigging / Animation / Scripting / Web Layout
+TechnologiesCG: Blender / Zbrush / Maya / 3ds-Max / 3d-Coat / Photoshop / Premiere / Krita / Inkscape
+CODE: Unity / Python / Git / VS-Code / Html / CSS / Wordpress / Hugo</description>
     </item>
     
     <item>
@@ -42,7 +44,7 @@ For this reason I publish my addons on Blender Market and Gumroad on a low cost,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://carlosmunoz.com.ar/portfolio/</guid>
-      <description>Coming Soon</description>
+      <description>PortfolioCharactersArchvizDraw</description>
     </item>
     
   </channel>
