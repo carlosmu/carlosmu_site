@@ -1,7 +1,6 @@
 baseURL = "https://carlosmunoz.com.ar/"
 languageCode = "en-us"
 title = "Carlos Muñoz"
-# theme = "tale"
 theme = "hugo-coder"
 
 # Configuration based on https://github.com/luizdepra/hugo-coder/wiki/Configurations#complete-example
@@ -36,7 +35,7 @@ disqusShortname = "yourdiscussshortname"
 
     # enableTwemoji = true
 
-    colorScheme = "auto"
+    colorScheme = "dark"
     hidecolorschemetoggle = false
 
     customCSS = ["css/custom.css"]
