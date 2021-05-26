@@ -16,36 +16,5 @@
       <description>This is my first blog post.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://carlosmunoz.com.ar/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://carlosmunoz.com.ar/about/</guid>
-      <description>I am Carlos Muñoz, technical 3D Artist based on Buenos Aires. I work since 2012 on Video Games and Virtual Reality Projects. Also, I worked on archviz and advertising projects.
-Skills3D Modeling / Texturing / Rigging / Animation / Scripting / Web Layout
-TechnologiesCG: Blender / Zbrush / Maya / 3ds-Max / 3d-Coat / Photoshop / Premiere / Krita / Inkscape
-CODE: Unity / Python / Git / VS-Code / Html / CSS / Wordpress / Hugo</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlosmunoz.com.ar/addons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://carlosmunoz.com.ar/addons/</guid>
-      <description>AddonsI started making addons for blender in 2021. I am still quite new and clumsy on the subject, but I found that I can improve my workflow a bit with custom tools and I also found that they can be useful for others.
-For this reason I publish my addons on Blender Market and Gumroad on a low cost, and you can always find the sources on Github of course.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlosmunoz.com.ar/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://carlosmunoz.com.ar/portfolio/</guid>
-      <description>PortfolioCharactersArchvizDraw</description>
-    </item>
-    
   </channel>
 </rss>

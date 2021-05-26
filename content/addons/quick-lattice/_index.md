@@ -3,7 +3,6 @@ title: "Quick Lattice"
 date: 2021-05-06T18:32:46-03:00
 draft: false
 ---
-
 ![featured.jpg]({{< base-url >}}img/addons/quick-lattice/featured.jpg#fullsize)
 
 Tired of setting up lattices?<br>

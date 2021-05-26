@@ -3,6 +3,7 @@ title: "Editor Swap"
 date: 2021-05-06T18:33:25-03:00
 draft: false
 ---
+
 ![featured.jpg]({{< base-url >}}img/addons/editor-swap/featured.jpg#fullsize)
 
 Are you searching for a quick way to swap between editors?
