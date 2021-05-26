@@ -5,32 +5,39 @@ draft: false
 ---
 ![featured.jpg]({{< base-url >}}img/addons/quick-lattice/featured.jpg#fullsize)
 
-Tired of setting up lattices?<br>
-Looking for a non-destructive way to modify your models?<br>
-Quick Lattice is what you are looking for! Do not wait more! (hahaha)<br>
+Tired of setting up lattices?
+
+Looking for a non-destructive way to modify your models?
+
+Quick Lattice is what you are looking for! Do not wait more! 
 
 ## What its does?
-Automating the process of warping an object in a lattice cage.<br>
-Setting the size, position, rotation, resolution, interpolation, modifier, etc.<br>
-This will save you a lot clicks and other boring settings. But not much more. <br>
+Automating the process of warping an object in a lattice cage.
+
+Setting the size, position, rotation, resolution, interpolation, modifier, etc.
+
+This will save you a lot clicks and other boring settings. 
+
+![steps.jpg]({{< base-url >}}img/addons/quick-lattice/steps.jpg#fullsize)
+
 
 ## Usage
 1. Select the target object
 2. Right Click Menú -> Quick Lattice (or W for Right Click Select Users)
-<br><br>
-<img src="demo/quick_lattice.jpg" width="600" style="border-radius:5px">
-<br><br>
-<img src="demo/quick_lattice.gif" width="600" style="border-radius:5px">
-<br><br>
-## New features
-<br>
-<img src="demo/quick_lattice_v06.gif" width="600" style="border-radius:5px" alt="New Features">
-<br><br>
+3. Deform your models with Quick Lattice!
+
+![popup_dialog.jpg]({{< base-url >}}img/addons/quick-lattice/popup_dialog.jpg#midsize)
+
+## New features added on version 0.6
+![quick_lattice_v06.gif]({{< base-url >}}img/addons/quick-lattice/quick_lattice_v06.gif#fullsize)
+
 
 ## Available for download
 
 [![gumroad-logo.png]({{< base-url >}}img/addons/gumroad-logo.png#thumbnail)](https://gumroad.com/l/quicklattice)
 [![blender-market-logo.png]({{< base-url >}}img/addons/blender-market-logo.png#thumbnail)](https://blendermarket.com/products/quick-lattice)
+[![github-logo.png]({{< base-url >}}img/addons/github-logo.png#thumbnail)](https://github.com/carlosmu/quick_lattice)
+
 ## Instalation
 1. Download the zip file "quick_lattice_[version].zip"
 2. If you have an older version, uninstall it first (on addon preferences).
@@ -42,31 +49,31 @@ This will save you a lot clicks and other boring settings. But not much more. <b
 - 0.3.0 First Release!
 - 0.3.1 Fix: Crash On Undo, reported by BluePortal77 
 - 0.4.0 Add Last Operation Support
-<br><img src="demo/last_operation.jpg" width="400" style="border-radius:5px"><br>
 - 0.5.0 Add Popup Dialog and User Preferences option
-<br><img src="demo/popup_dialog.jpg" width="400" style="border-radius:5px"><br>
-<br><img src="demo/popup_user_prefs.jpg" width="400" style="border-radius:5px"><br>
 - 0.6.0 Add User Preferences to set the Default Resolution and Interpolation of Lattices
-<br><img src="demo/user_preferences_v06.jpg" width="400" style="border-radius:5px"><br>
 - 0.7.0 Now this addon use multifile structure (.zip)
-
-
-
+- 0.8.0 New Preferences
 
 ## Known Issues
 When the object's pivot is rotated (but not the whole object), the result may not be what you want. In those cases, try applying the rotation first (Ctrl + A).
-<br><br>
-<img src="demo/known_issues.jpg" width="600" style="border-radius:5px">
-<br><br>
+
+![known_issues.jpg]({{< base-url >}}img/addons/quick-lattice/known_issues.jpg#fullsize)
 
 ## Report a Bug
 If you have any problem, report it on Addon Preferences. I will solve it as soon as possible. 
 
-<img src="demo/report_bug.jpg" width="600" style="border-radius:5px">
-<br><br>
+![report_bug.jpg]({{< base-url >}}img/addons/quick-lattice/report_bug.jpg#fullsize)
 
-## To-Do List for 1.0 Milestone
-- Wrap on a zip package = OK
-- Multi Object option.
-- Vertex Selection or vGroups.
-- Add feature to set bones/empties to all points of lattice.
+## Version 0.8 (Apr 09, 2021)
+
+A lot of new preferences came with version 0.8. Now you can choose the default behavior that you prefer:
+
+1. Deactivate Button on context menu.
+
+2. Deactivate enter edit mode after creation.
+3. Custom naming for Lattice object and modifier.
+4. Object name prefix.
+
+**IMPORTANT**: If you update from 0.7 you need to remove this version first, restart Blender, and just then install version 0.8. If you don't restart blender the new preferences won't load.  
+
+![08_prefs.jpg]({{< base-url >}}img/addons/quick-lattice/08_prefs.jpg#fullsize)

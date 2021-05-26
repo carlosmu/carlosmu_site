@@ -41,8 +41,7 @@ The default shortcut is ``` CTRL + ALT + X``` . Also you can change the shortcut
 
 [![gumroad-logo.png]({{< base-url >}}img/addons/gumroad-logo.png#thumbnail)](https://gumroad.com/l/editorswap)
 [![blender-market-logo.png]({{< base-url >}}img/addons/blender-market-logo.png#thumbnail)](https://blendermarket.com/products/editor-swap)
-
-
+[![github-logo.png]({{< base-url >}}img/addons/github-logo.png#thumbnail)](https://github.com/carlosmu/editor_swap)
 
 
 ## Instalation
