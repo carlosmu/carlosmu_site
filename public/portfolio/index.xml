@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Muñoz</title>
+    <link>https://carlosmunoz.com.ar/portfolio/</link>
+    <description>Recent content on Carlos Muñoz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://carlosmunoz.com.ar/portfolio/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

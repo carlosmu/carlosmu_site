@@ -6,5 +6,4 @@ For this reason I publish my addons on Blender Market and Gumroad on a low cost,
 
 [![featured.jpg]({{< base-url >}}img/addons/quick-lattice/featured.jpg#midsize)](/addons/quick-lattice/)
 [![featured.jpg]({{< base-url >}}img/addons/editor-swap/featured.jpg#midsize)](/addons/editor-swap/)
-
-
+[![featured.png]({{< base-url >}}img/addons/playblast/featured.png#midsize)](/addons/playblast/)
